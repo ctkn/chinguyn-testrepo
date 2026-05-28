@@ -4,4 +4,4 @@
   tasks:
     Glue-task:
       operator: airflow.providers.amazon.aws.operators.glue.GlueJobOperator
-      job_name: Untitled
+      job_name: ally-test-workflow
